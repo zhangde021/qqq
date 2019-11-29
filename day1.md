@@ -27,3 +27,21 @@
  #  git commit -m "描述"   描述文件
  #  git push origin master   把文件push到github 中 
 
+## 4>npm常用的命令
+# npm -v
+
+# npm install  生成 node_modules 
+
+# npm search <包名>  搜索包是否存在 
+
+# npm config list  npm配置总览
+
+# npm config get/set registry  查看/设置当前的镜像源
+
+# npm root -g  查看全局包的安装位置
+
+# npm config get/set prefix 查看/设置全局包的安装位置
+
+# npm config get cache 查看缓存目录
+
+# npm cache clean -f  清除缓存
