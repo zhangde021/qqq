@@ -21,8 +21,9 @@
 
 
 ## 3> git  
+# git init  生成git环境  一个项目中.git文件只能有一个
   #  git clone  路径  先把 文件荡下来 
- #   get add .   要传的所有文件
+ #   git add .   要传的所有文件
  #  git commit -m "描述"   描述文件
  #  git push origin master   把文件push到github 中 
 
